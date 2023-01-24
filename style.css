@@ -1,0 +1,11 @@
+.sanda img{
+    height: 500px;
+}
+.sanda{
+    position: relative;
+}
+.sandal{
+    position: absolute;
+    top:25%;
+    color: white;
+}
